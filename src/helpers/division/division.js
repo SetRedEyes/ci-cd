@@ -1,1 +1,3 @@
-export const division = (a, b) => a / b;
+export function division(a, b) {
+  return a / b
+}
